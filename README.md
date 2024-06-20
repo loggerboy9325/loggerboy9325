@@ -31,8 +31,5 @@ Love learning about Cloud-tech and golang
 
 <a href="http://www.github.com/loggerboy9325"><img src="https://github-readme-stats.vercel.app/api?username=loggerboy9325&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="loggerboy9325's GitHub stats" /></a>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/loggerboy9325"><img src="https://github-readme-stats.vercel.app/api?username=loggerboy9325&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="loggerboy9325's GitHub stats" /></a>
 
 <a href="https://github.com/loggerboy9325" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loggerboy9325&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
