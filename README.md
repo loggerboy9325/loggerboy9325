@@ -9,7 +9,7 @@ Love learning about Cloud-tech and golang
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [My website](http://gwresume.com)
 * ✉️  You can contact me at [georgewettiv@gmail.com](mailto:georgewettiv@gmail.com)
-* 🧠  I'm learning golang/pulumi/cloud
+* 🧠  I'm learning golang
 * 🤝  I'm open to collaborating on other cloud-related projects
 
 ### Skills
